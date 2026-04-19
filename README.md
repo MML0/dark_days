@@ -1,10 +1,12 @@
 # AI Evolving Creatures + Fish Boids
 
-Built on a **boring day in the middle of an internet blackout in the middel of war**.  
+Built on a **boring day in the middle of an internet blackout in war**.  
 
 hope to see a day with freedom, freedom of speech, freedom of thought, and a world where people can express themselves openly and live without oppression.
 a day that gpt dont say i cant talk about goverments,dictatorships,...
-
+in 50th days of full internet blackout
+ 
+for the W 
 
 This project was made **100% with AI assistance**.
 
